@@ -1,0 +1,34 @@
+{
+  "artigos": [
+    {
+      "titulo": "Tabela Oficial de Preços - Bike House",
+      "autor": "Equipe Bike House",
+      "ano": 2026,
+      "link_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/TABELADEPRE%C3%87OS.xlsx"
+    },
+    {
+      "titulo": "Planos e Regras de Aluguel Semanal",
+      "autor": "Equipe Bike House",
+      "ano": 2026,
+      "link_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/aluguel-semanal.pdf"
+    },
+    {
+      "titulo": "Rules of the Road",
+      "autor": "Road Safety Authority (RSA)",
+      "ano": 2025,
+      "link_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/f8117877d41020ec0f4b895ab079dfd8173922f4/pdfs/RuleOfTheRoad.pdf"
+    },
+    {
+      "titulo": "Yose Power Battery User Manual",
+      "autor": "Yose Power",
+      "ano": 2024,
+      "link_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/yosepower_battery_user_manual_39fb5473-758b-457b-9a33-ed67de087093.pdf"
+    },
+    {
+      "titulo": "Manual do Revendedor - Informações Gerais de Manutenção (Shimano)",
+      "autor": "Shimano Inc.",
+      "ano": 2024,
+      "link_pdf": "https://si.shimano.com/pt/pdfs/dm/GN0001/DM-GN0001-30-POR.pdf"
+    }
+  ]
+}
