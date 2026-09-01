@@ -1,0 +1,382 @@
+[
+  {
+    "titulo": "Road Traffic and Roads Act 2023",
+    "autor": "Irish Statute Book",
+    "ano": 2023,
+    "url_pdf": "https://www.irishstatutebook.ie/eli/2023/act/14/enacted/en/print.html?printonload=true",
+    "resumo": "Legislação oficial irlandesa que define as regras e a legalidade do uso de e-bikes e scooters nas vias públicas, essencial para o agente orientar sobre limites legais.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["legislacao", "ebike", "transito"],
+      "nivel": "avancado",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "norma",
+      "fonte": "irishstatutebook.ie",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Road Traffic Act 2024",
+    "autor": "Irish Statute Book",
+    "ano": 2024,
+    "url_pdf": "https://www.irishstatutebook.ie/eli/2024/act/10/enacted/en/print.html",
+    "resumo": "Atualização das leis de trânsito na Irlanda, utilizada pelo agente para garantir que as orientações de circulação dadas aos ciclistas estejam de acordo com as normas mais recentes.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["legislacao", "transito", "seguranca"],
+      "nivel": "avancado",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "norma",
+      "fonte": "irishstatutebook.ie",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Cycle Safety Booklet",
+    "autor": "Road Safety Authority (RSA)",
+    "ano": 2024,
+    "url_pdf": "https://www.rsa.ie/docs/default-source/road-safety/cyclists/cycle-safety.pdf?sfvrsn=827fdc75_2",
+    "resumo": "Guia oficial da Autoridade de Segurança Viária da Irlanda sobre boas práticas para ciclistas urbanos, útil para o agente orientar clientes inexperientes sobre segurança.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["seguranca", "ciclistas", "boas_praticas"],
+      "nivel": "basico",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "guia",
+      "fonte": "rsa.ie",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Powered Personal Transportation Regulations",
+    "autor": "Road Safety Authority (RSA)",
+    "ano": 2025,
+    "url_pdf": "https://www.rsa.ie/road-safety/road-users/special-purpose-vehicles/powered-personal-transportation",
+    "resumo": "Página de diretrizes para transporte pessoal motorizado e e-bikes. Ajuda o agente a esclarecer se uma bicicleta precisa ou não de seguro/licença na Irlanda.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["ebike", "regras", "transito"],
+      "nivel": "intermediario",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "manual",
+      "fonte": "rsa.ie",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Electric Bike Laws in Ireland: The Essential 2026 Legal Guide",
+    "autor": "Cycle Centre",
+    "ano": 2026,
+    "url_pdf": "https://www.cyclecentre.com/electric-bike-laws-in-ireland-the-essential-2026-legal-guide/",
+    "resumo": "Artigo focado nas regulamentações de 2026 para bicicletas elétricas na Irlanda, permitindo que a IA tire dúvidas práticas sobre potência do motor e obrigatoriedade de capacetes.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["ebike", "legislacao", "guia"],
+      "nivel": "basico",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "artigo",
+      "fonte": "cyclecentre.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Dublin Transport Authority Act 2008",
+    "autor": "Irish Statute Book",
+    "ano": 2008,
+    "url_pdf": "https://www.irishstatutebook.ie/eli/2008/act/25/enacted/en/print.html",
+    "resumo": "Legislação de transporte utilizada para fornecer contexto sobre infraestrutura viária e competências do transporte local, servindo de base para o RAG em dúvidas sobre áreas de circulação.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["legislacao", "transporte"],
+      "nivel": "avancado",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "norma",
+      "fonte": "irishstatutebook.ie",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Cycle to Work Scheme Overview",
+    "autor": "Revenue Commissioners Ireland",
+    "ano": 2026,
+    "url_pdf": "https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx",
+    "resumo": "Orientações oficiais do governo irlandês sobre o benefício fiscal Cycle to Work. O agente utilizará este link para instruir clientes que desejam comprar bicicletas através de descontos do empregador.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["beneficios", "impostos", "compra"],
+      "nivel": "intermediario",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "guia",
+      "fonte": "revenue.ie",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Tabela Oficial de Preços - Bike House",
+    "autor": "Equipe Bike House",
+    "ano": 2026,
+    "url_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/TABELADEPRE%C3%87OS.xlsx",
+    "resumo": "Planilha oficial com custos de manutenção, preços de aluguel e venda de bicicletas. O agente utilizará este documento primordial para fornecer orçamentos rápidos aos clientes.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["precos", "aluguel", "venda"],
+      "nivel": "basico",
+      "idioma": "pt",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "relatorio",
+      "fonte": "github.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Guia Básico de Operação - E-Bike House",
+    "autor": "Equipe Bike House",
+    "ano": 2026,
+    "url_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/basicoebikehouse.docx",
+    "resumo": "Documento interno da loja com instruções essenciais para clientes iniciantes no uso de bicicletas elétricas, permitindo respostas didáticas sobre como operar a bike alugada.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["ebike", "operacao", "guia"],
+      "nivel": "basico",
+      "idioma": "pt",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "manual",
+      "fonte": "github.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Bike House - Cycle to Work Policy",
+    "autor": "Equipe Bike House",
+    "ano": 2026,
+    "url_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/cycletowork.pdf",
+    "resumo": "Documento contendo as regras e o passo a passo de como a Bike House processa compras realizadas através do programa governamental Cycle to Work.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["beneficios", "regras", "venda"],
+      "nivel": "intermediario",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "manual",
+      "fonte": "github.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Informações de Pagamento e Condições Salariais",
+    "autor": "Equipe Bike House",
+    "ano": 2026,
+    "url_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/salary.pdf",
+    "resumo": "Detalha condições financeiras, deduções e regras de pagamento envolvendo compras parceladas ou benefícios fiscais intermediados pela loja.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["pagamento", "financeiro", "regras"],
+      "nivel": "intermediario",
+      "idioma": "pt",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "relatorio",
+      "fonte": "github.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Bosch eBike Battery Guide",
+    "autor": "Bosch eBike Systems",
+    "ano": 2024,
+    "url_pdf": "https://www.bosch-ebike.com/fileadmin/EBC/Service/Downloads/Akku_Guide/Akku_Guide/Bosch-eBike-Akkuguide-EN-GB.pdf",
+    "resumo": "Apresenta instruções de operação, recarga e cuidados no inverno com baterias elétricas, utilizadas pelo agente para orientar clientes sobre a preservação dos equipamentos.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["ebike", "bateria", "manutencao"],
+      "nivel": "intermediario",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "manual",
+      "fonte": "bosch-ebike.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Shimano E-Bike Systems Service Manual",
+    "autor": "Shimano",
+    "ano": 2023,
+    "url_pdf": "https://si.shimano.com/en/pdfs/dm/BTE001/DM-BTE001-02-ENG.pdf",
+    "resumo": "Manual técnico sobre a plataforma Shimano STEPS, auxiliando o agente de IA a entender diagnósticos de falha e sugerir revisões preventivas precisas.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["ebike", "mecanica", "manutencao"],
+      "nivel": "avancado",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "manual",
+      "fonte": "si.shimano.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Bike Maintenance Basics",
+    "autor": "REI Co-op",
+    "ano": 2025,
+    "url_pdf": "https://www.rei.com/learn/expert-advice/bike-maintenance.html",
+    "resumo": "Guia acessível de manutenção básica focado em inspeções ABC (Air, Brakes, Chain). Serve de base para a IA ensinar os locatários a cuidar da bicicleta.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["manutencao", "cuidados_basicos", "mecanica"],
+      "nivel": "basico",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "artigo",
+      "fonte": "rei.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Planos e Regras de Aluguel Semanal",
+    "autor": "Equipe Bike House",
+    "ano": 2026,
+    "url_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/aluguel-semanal.pdf",
+    "resumo": "Detalha termos, condições, caução e políticas de cancelamento para aluguéis semanais, garantindo que o agente passe informações padronizadas no WhatsApp.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["aluguel", "planos", "regras"],
+      "nivel": "basico",
+      "idioma": "pt",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "relatorio",
+      "fonte": "github.com",
+      "licenca": "open_access"
+    }
+  },
+  {
+    "titulo": "Schwalbe Tire Pressure and Care Guide",
+    "autor": "Schwalbe",
+    "ano": 2025,
+    "url_pdf": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+    "resumo": "Fornece tabelas de calibração de pneus e dicas de prevenção contra furos urbanos, essencial para o agente orientar clientes sobre falhas com pneus.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["pneus", "manutencao", "calibragem"],
+      "nivel": "basico",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "guia",
+      "fonte": "schwalbe.com",
+      "licenca": "open_access"
+    }
+  },
+{
+    "titulo": "Rules of the Road",
+    "autor": "Road Safety Authority (RSA)",
+    "ano": 2025,
+    "url_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/f8117877d41020ec0f4b895ab079dfd8173922f4/pdfs/RuleOfTheRoad.pdf",
+    "resumo": "Cópia estática do manual oficial com as regras de trânsito da Irlanda. Serve como base de conhecimento definitiva para o agente orientar ciclistas sobre como circular legalmente no país.",
+    "data_insercao": "2026-08-31T19:40:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["legislacao", "transito", "seguranca"],
+      "nivel": "intermediario",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "norma",
+      "fonte": "github.com",
+      "licenca": "open_access"
+    }
+  },
+{
+  "titulo": "Yose Power Battery User Manual",
+  "autor": "Yose Power",
+  "ano": 2024,
+  "url_pdf": "https://raw.githubusercontent.com/Luiz-gust/AgenteIA/main/pdfs/yosepower_battery_user_manual_39fb5473-758b-457b-9a33-ed67de087093.pdf",
+  "resumo": "Manual oficial de instruções e segurança das baterias Yose Power (muito utilizadas em kits de conversão e reposição de e-bikes na Europa). Fornece diretrizes sobre carregamento correto, indicadores de LED, cuidados no armazenamento e solução de problemas para orientar os clientes da loja.",
+  "data_insercao": "2026-09-01T12:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["ebike", "bateria", "seguranca", "manutencao"],
+    "nivel": "intermediario",
+    "idioma": "en",
+    "contexto_educacional": "formacao_profissional",
+    "tipo_documento": "manual",
+    "fonte": "github.com",
+    "licenca": "open_access"
+  }
+},
+  {
+    "titulo": "Bike Washing and Cleaning Guide",
+    "autor": "Park Tool",
+    "ano": 2025,
+    "url_pdf": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+    "resumo": "Ensina o procedimento correto de lavagem e cuidados estruturais, permitindo ao agente instruir clientes sobre como entregar a bike de aluguel limpa sem danificar motores.",
+    "data_insercao": "2026-08-31T21:56:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["limpeza", "cuidados_basicos", "manutencao"],
+      "nivel": "basico",
+      "idioma": "en",
+      "contexto_educacional": "formacao_profissional",
+      "tipo_documento": "artigo",
+      "fonte": "parktool.com",
+      "licenca": "open_access"
+    }
+  }, 
+{
+  "titulo": "Manual do Revendedor - Informações Gerais de Manutenção (Shimano)",
+  "autor": "Shimano Inc.",
+  "ano": 2024,
+  "url_pdf": "https://si.shimano.com/pt/pdfs/dm/GN0001/DM-GN0001-30-POR.pdf",
+  "resumo": "Manual técnico oficial da Shimano contendo orientações gerais de mecânica para oficinas e revendedores. Apresenta padrões de torque, ferramentas recomendadas, avisos de segurança e diretrizes globais de manutenção para embasar os diagnósticos preventivos e de reparo do agente.",
+  "data_insercao": "2026-09-01T12:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["mecanica", "manutencao", "shimano", "ferramentas"],
+    "nivel": "avancado",
+    "idioma": "pt",
+    "contexto_educacional": "formacao_profissional",
+    "tipo_documento": "manual",
+    "fonte": "si.shimano.com",
+    "licenca": "open_access"
+  }
+}
+]
